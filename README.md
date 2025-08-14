@@ -1,6 +1,6 @@
 # Gustavo Franco
 
-Olá! Eu sou Gustavo, profissional de redes e tecnologia com experiência em **automação, programação Python e desenvolvimento web**.  
+Olá! Eu sou Gustavo, profissional de redes e tecnologia com experiência em **automação, programação Python e desenvolvimento web para  facilitar os trabalhos com redes**.  
 Atualmente estou explorando projetos de **coleta de dados automatizada**, dashboards interativos e aplicações web.
 
 ---
