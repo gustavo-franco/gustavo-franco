@@ -33,4 +33,4 @@ Atualmente estou explorando projetos de **coleta de dados automatizada**, dashbo
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/gustavofrs/)  
-- Email: gustavo.franco@example.com
+- Email: franco.telco@gmail.com
